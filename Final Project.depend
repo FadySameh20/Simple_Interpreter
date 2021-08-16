@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1592332062 source:c:\users\fadys\downloads\computer-communication program\term 4\data structure i\final project\simple interpreter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
